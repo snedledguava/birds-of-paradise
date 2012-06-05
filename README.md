@@ -1,0 +1,1 @@
+This theme is based on [Birds of Paradise](https://github.com/jbergantine/birds-of-paradise-for-textmate) TextMate theme from [Joe Bergantine](http://joebergantine.com/).
