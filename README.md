@@ -4,4 +4,4 @@ This theme is based on [Birds of Paradise](https://github.com/jbergantine/birds-
 
 ---
 
-![Birds of Paradise](http://joebergantine.com/images/syntax-birds-of-paradise-for-textmate-php.png "Birds of Paradise")
+![Birds of Paradise](http://img694.imageshack.us/img694/1210/birdsofparadise.jpg "Birds of Paradise")
